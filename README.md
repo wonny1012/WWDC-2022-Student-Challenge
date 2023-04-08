@@ -1,4 +1,4 @@
-# WWDC-2022-Student-
+# WWDC 2022 Student Challenge Winner 
 
 "Zoochestra" An educational app that introduces orchestra instruments using animals. 
 In Korean education, only popular instruments (for example, violin, cello, flute) are briefly described. 
